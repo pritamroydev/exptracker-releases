@@ -21,7 +21,7 @@ Built with a local-first approach, your financial records are maintained on your
 
 ## Latest Release
 
-**ExpTracker v1.0.4 — Branding & Update Checker**
+**ExpTracker v1.0.4 : Branding & Update Checker**
 
 | Detail | Information |
 |---|---|
@@ -166,4 +166,4 @@ GitHub: [@pritamroydev](https://github.com/pritamroydev)
 
 ---
 
-**ExpTracker — Your finances. Your control.**
+**ExpTracker : Your finances. Your control.**
